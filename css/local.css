@@ -1,0 +1,40 @@
+
+.btn-primary {
+    background-color: #D86D00;
+    margin-top: 20px;
+}
+
+.bg-primary {
+    background-color: #D86D00;
+}
+
+hr.primary {
+    border-color: #D86D00;
+    border-width: 3px;
+    max-width: 50px;
+}
+
+.text-primary {
+    color: #D86D00;
+}
+
+a {
+    color: #D86D00;
+}
+
+
+header {
+    background-image: url(../img/hongkong.jpg);
+    min-height: 100%;
+}
+
+header > div {
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    text-align: left;
+}
+
+header h1 {
+    margin-bottom: 20px;
+}
